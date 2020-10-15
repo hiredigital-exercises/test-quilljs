@@ -9,6 +9,6 @@ This task will be evaluated based on the render, scroll, and typing performance 
 #### Details and Limitations
 
 1) Use the latest version of ReactJS.
-2) Justify the use additional third party packages use implement this task.
+2) Justify the use additional third party packages used to implement this task.
 4) Store all data on Local Storage, auto-updating as users edit content on page.
 3) This page should work in IE11. Describe any tradeoffs made in UX for IE users, and explain why it is acceptable.
